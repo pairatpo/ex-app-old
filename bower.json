@@ -1,0 +1,24 @@
+﻿{
+    "name": "ex-app",
+    "description": "",
+    "version": "0.0.0",
+    "main": [
+        "js/motion.js",
+        "sass/motion.scss"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "ex-app"
+    ],
+    "authors": [
+        "pairatpo <pairat.poombang@thomsonreuters.com>"
+    ],
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/foo/bar.git"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "private": true
+}

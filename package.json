@@ -1,0 +1,19 @@
+﻿{
+    "name": "ex-app",
+    "version": "0.0.0",
+    "description": "",
+    "keywords": [
+        "ex-app"
+    ],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        "pairatpo <pairat.poombang@thomsonreuters.com>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/foo/bar.git"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
